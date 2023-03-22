@@ -2,9 +2,12 @@
 
 ## Android 配置
 
-配合 [virtual-hosts](https://github.com/x-falcon/Virtual-Hosts) 使用的文件
+配合 [virtual-hosts](https://github.com/x-falcon/Virtual-Hosts) 使用 ,
 
-# [自定义的hosts, 点击下载](./hosts)
+供 virtual-hosts 使用的远程hosts文件 :
+
+[https://sayurinana.github.io/hosts/](https://sayurinana.github.io/hosts/)
+
 
 ## Windows 配置
 
@@ -43,10 +46,6 @@
 以下是引导内容
 
 ---
-
-远程hosts文件
-
-[hosts (sayurinana.github.io)](https://sayurinana.github.io/hosts/)
 
 `https://sayurinana.github.io/hosts/`
 
