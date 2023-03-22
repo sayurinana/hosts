@@ -41,10 +41,6 @@
 
 # <a href="http://115b.net:9001" target="_blank">OSS 对象存储服务</a>
 
-# <a href="http://115b.net:7777/" target="_blank">柒柒の窝</a>
-
-![image-20230315142023956](./assets/image-20230315142023956.png)
-
 # 2. hosts 配置 
 
 ## 2.1. Android 配置
