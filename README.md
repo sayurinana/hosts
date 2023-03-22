@@ -1,8 +1,30 @@
-# hosts 
+# hosts 配置 
+
+## Android 配置
 
 配合 [virtual-hosts](https://github.com/x-falcon/Virtual-Hosts) 使用的文件
 
 # [自定义的hosts, 点击下载](./hosts)
+
+## Windows 配置
+
+编辑添加[hosts内容](#hosts-内容)
+
+`C:\Windows\System32\drivers\etc\hosts`
+
+## Linux/Unix/类Unix 配置
+
+编辑添加[hosts内容](#hosts-内容)
+
+`/etc/hosts`
+
+## MacOS/iOS 配置
+
+> 别看,不知道
+
+---
+
+# hosts 内容
 
 更新时间: 
 
