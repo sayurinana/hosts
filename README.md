@@ -1,49 +1,8 @@
-# 1. hosts 配置 
-
-## 1.1. Android 配置
-
-配合 [virtual-hosts](https://github.com/x-falcon/Virtual-Hosts) 使用 ,
-
-供 virtual-hosts 使用的远程hosts文件 :
-
-[https://sayurinana.github.io/hosts/](https://sayurinana.github.io/hosts/)
-
-
-## 1.2. Windows 配置
-
-编辑添加[hosts内容](#2-hosts-内容)
-
-`C:\Windows\System32\drivers\etc\hosts`
-
-## 1.3. Linux/Unix/类Unix 配置
-
-编辑添加[hosts内容](#2-hosts-内容)
-
-`/etc/hosts`
-
-## 1.4. MacOS/iOS 配置
-
-> 别看,不知道
-
----
-
-# 2. hosts 内容
-
-更新时间: 
-
-当前的hosts内容
-
-```
-172.20.32.11 115b.net
-172.20.32.11 blog.wuuuu.115b.net
-172.20.32.11 minio.server.115b.net
-```
-
----
+**若还没有配置hosts, 请先前往[hosts配置](#2-hosts-配置), 自定义hosts以访问下列服务器内容**
 
 >  暂时没时间，简陋点，等有空了改个好看点的门户网站
 
-# 3. 以下是引导内容
+# 1. 以下是引导内容
 
 ---
 
@@ -83,3 +42,46 @@
 # <a href="http://115b.net:7777/" target="_blank">柒柒の窝</a>
 
 ![image-20230315142023956](./assets/image-20230315142023956.png)
+
+# 2. hosts 配置 
+
+## 2.1. Android 配置
+
+配合 [virtual-hosts](https://github.com/x-falcon/Virtual-Hosts) 使用 ,
+
+供 virtual-hosts 使用的远程hosts文件 :
+
+[https://sayurinana.github.io/hosts/](https://sayurinana.github.io/hosts/)
+
+
+## 2.2. Windows 配置
+
+编辑添加[hosts内容](#3-hosts-内容)
+
+`C:\Windows\System32\drivers\etc\hosts`
+
+## 2.3. Linux/Unix/类Unix 配置
+
+编辑添加[hosts内容](#3-hosts-内容)
+
+`/etc/hosts`
+
+## 2.4. MacOS/iOS 配置
+
+> 别看,不知道
+
+---
+
+# 3. hosts 内容
+
+更新时间: 
+
+当前的hosts内容
+
+```
+172.20.32.11 115b.net
+172.20.32.11 blog.wuuuu.115b.net
+172.20.32.11 minio.server.115b.net
+```
+
+---
