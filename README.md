@@ -39,7 +39,7 @@
 
 ![image-20230315142000757](./assets/image-20230315142000757.png)
 
-# <a href="http://115b.net:9001" target="_blank">OSS 对象存储服务</a>
+# <a href="http://minio.server.115b.net:9001" target="_blank">OSS 对象存储服务</a>
 
 # 2. hosts 配置 
 
