@@ -1,6 +1,6 @@
 # 1. hosts 配置 
 
-## 1.1 Android 配置
+## 1.1. Android 配置
 
 配合 [virtual-hosts](https://github.com/x-falcon/Virtual-Hosts) 使用 ,
 
@@ -9,19 +9,19 @@
 [https://sayurinana.github.io/hosts/](https://sayurinana.github.io/hosts/)
 
 
-## 1.2 Windows 配置
+## 1.2. Windows 配置
 
 编辑添加[hosts内容](#hosts-内容)
 
 `C:\Windows\System32\drivers\etc\hosts`
 
-## 1.3 Linux/Unix/类Unix 配置
+## 1.3. Linux/Unix/类Unix 配置
 
 编辑添加[hosts内容](#hosts-内容)
 
 `/etc/hosts`
 
-## 1.4 MacOS/iOS 配置
+## 1.4. MacOS/iOS 配置
 
 > 别看,不知道
 
