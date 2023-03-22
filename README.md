@@ -8,10 +8,10 @@
 
 ---
 
-`https://sayurinana.github.io/hosts/`
 
 # <a href="http://blog.wuuuu.115b.net:2233" target="_blank">柒柒的小破站</a>
 
+---
 
 # <a href="http://115b.net:8008/" target="_blank">媒体服务器</a>
 
@@ -22,7 +22,7 @@
     resource
 密码：
     123
-    
+
  2. 可读写,主要用作网络临时交换存储空间
 用户名：
     a
@@ -31,7 +31,11 @@
 ```
 ![image-20230315142000757](./assets/image-20230315142000757.png)
 
+---
+
 # <a href="http://minio.server.115b.net:9001" target="_blank">OSS 对象存储服务</a>
+
+---
 
 # 2. hosts 配置 
 
