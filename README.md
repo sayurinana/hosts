@@ -11,13 +11,13 @@
 
 ## 1.2. Windows 配置
 
-编辑添加[hosts内容](#hosts-内容)
+编辑添加[hosts内容](#2-hosts-内容)
 
 `C:\Windows\System32\drivers\etc\hosts`
 
 ## 1.3. Linux/Unix/类Unix 配置
 
-编辑添加[hosts内容](#hosts-内容)
+编辑添加[hosts内容](#2-hosts-内容)
 
 `/etc/hosts`
 
