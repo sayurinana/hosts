@@ -56,7 +56,7 @@
 
 演示视频：
 
-<video src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/virtual-hosts%E6%93%8D%E4%BD%9C%E6%BC%94%E7%A4%BA.mp4" controls="controls"></video>
+<video src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/virtual-hosts%E6%93%8D%E4%BD%9C%E6%BC%94%E7%A4%BA.mp4" controls="controls" width="540px" height="960px"></video>
 
 ## 2.2. Windows 配置
 
@@ -83,9 +83,10 @@
 当前的hosts内容
 
 ```
-172.20.32.11 115b.net
-172.20.32.11 blog.wuuuu.115b.net
-172.20.32.11 minio.server.115b.net
+172.20.32.26                115b.net
+172.20.32.26                wuuuu.115b.net
+172.20.32.26                blog.wuuuu.115b.net
+172.20.32.26                minio.server.115b.net
 ```
 
 ---
