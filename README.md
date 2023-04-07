@@ -52,7 +52,7 @@
 
 供 virtual-hosts 使用的远程hosts文件 :
 
-[https://sayurinana.github.io/hosts/](https://sayurinana.github.io/hosts/)
+[https://sayurinana.github.io/hosts/hosts](https://sayurinana.github.io/hosts/hosts)
 
 演示视频：
 
