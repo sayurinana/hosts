@@ -54,7 +54,7 @@
 
 [https://sayurinana.github.io/hosts/hosts](https://sayurinana.github.io/hosts/hosts)
 
-演示视频：
+演示视频：（视频里的地址有误，具体地址使用上面这个链接）
 
 <video src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/virtual-hosts%E6%93%8D%E4%BD%9C%E6%BC%94%E7%A4%BA.mp4" controls="controls" width="540px" height="960px"></video>
 
