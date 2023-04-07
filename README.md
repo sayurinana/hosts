@@ -54,9 +54,15 @@
 
 [https://sayurinana.github.io/hosts/hosts](https://sayurinana.github.io/hosts/hosts)
 
-演示视频：（视频里的地址有误，具体地址使用上面这个链接）
+演示视频（1是安装软件，2是补充的修改hosts文件的方法）：（视频里的地址有误，具体地址使用上面这个链接）
+
+1. 
 
 <video src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/virtual-hosts%E6%93%8D%E4%BD%9C%E6%BC%94%E7%A4%BA.mp4" controls="controls" width="540px" height="960px"></video>
+
+2. 
+
+<video src="https://sayurinana-aliyun-oss.oss-cn-beijing.aliyuncs.com/video/virtual-hosts%E4%BF%AE%E6%94%B9%E8%BF%9C%E7%A8%8Bhosts%E6%96%87%E4%BB%B6%E6%BC%94%E7%A4%BA.mp4" controls="controls" width="540px" height="960px"></video>
 
 ## 2.2. Windows 配置
 
