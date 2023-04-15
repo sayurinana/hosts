@@ -9,11 +9,11 @@
 ---
 
 
-# <a href="http://115b.net:2233" target="_blank">柒柒的小破站</a>
+# <a href="http://blog.private.net/" target="_blank">柒柒的小破站</a>
 
 ---
 
-# <a href="http://115b.net:8008/" target="_blank">媒体服务器</a>
+# <a href="http://file.private.net/" target="_blank">媒体服务器</a>
 
 ```
  有两个公共账户:
@@ -31,13 +31,13 @@
 密码：
     a
 ```
-[目录浏览](http://115b.net:8008/)
+[目录浏览](http://src.private.net/)
 
 ![image-20230315142000757](./assets/image-20230315142000757.png)
 
 ---
 
-# <a href="http://115b.net:9001" target="_blank">OSS 对象存储服务</a>
+# <a href="http://console.oss.private.net/" target="_blank">OSS 对象存储服务</a>
 
 ---
 
@@ -89,10 +89,25 @@
 当前的hosts内容
 
 ```
-172.20.32.26                115b.net
-172.20.32.26                wuuuu.115b.net
-172.20.32.26                blog.wuuuu.115b.net
-172.20.32.26                minio.server.115b.net
+#对旧URL兼容
+172.20.32.26                                 115b.net
+172.20.32.26                           wuuuu.115b.net
+172.20.32.26                      blog.wuuuu.115b.net
+172.20.32.26                    minio.server.115b.net
+
+
+172.20.32.26                              private.net
+192.168.137.1                       wuuuu.private.net
+192.168.137.210       vm-centos7-server-1.private.net
+172.20.32.26                          src.private.net
+172.20.32.26                         mail.private.net
+172.20.32.26                          oss.private.net
+172.20.32.26                         yapi.private.net
+172.20.32.26                         blog.private.net
+172.20.32.26                   sayurinana.private.net
+172.20.32.26                bt.sayurinana.private.net
+172.20.32.26              blog.sayurinana.private.net
+172.20.32.26              code.sayurinana.private.net
 ```
 
 ---
