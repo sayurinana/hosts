@@ -42,7 +42,7 @@
 
 ![image-20230416102535263](assets/image-20230416102535263.png)
 
-# [目录浏览(对应文件服务器的公共账户a的空间)](http://src.private.net/)
+# <a href="http://src.private.net/" target="_blank">目录浏览(对应文件服务器的公共账户a的空间)</a>
 
 ![image-20230416102410416](assets/image-20230416102410416.png)
 
@@ -58,7 +58,7 @@
 
 ![image-20230416103103183](assets/image-20230416103103183.png)
 
-# [Web 邮箱客户端 :: 欢迎使用 Roundcube Webmail (仅用于登录@private.net邮箱)](http://mail.private.net/)
+# <a href="http://mail.private.net/" target="_blank">Web 邮箱客户端 :: 欢迎使用 Roundcube Webmail (仅用于登录@private.net邮箱)</a>
 
 > 有九个临时邮箱，若需要建立一个可以[mail一下](mailto:sayurinana@163.com)给开一个，
 >
