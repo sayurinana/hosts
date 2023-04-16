@@ -1,19 +1,26 @@
+[toc]
+
 # 自定义hosts以访问服务器
 
 **若还没有配置hosts, 请先前往[hosts配置](#2-hosts-配置), 自定义hosts以访问下列服务器内容**
 
 >  暂时没时间，简陋点，等有空了改个好看点的门户网站
 
-# 1. 以下是引导内容
+# 1. 以下是Web引导
+
+# <a href="http://yapi.private.net/" target="_blank">YApi-高效、易用、功能强大的可视化接口管理平台 (private.net)</a>
+
+![image-20230416102049955](assets/image-20230416102049955.png)
 
 ---
-
 
 # <a href="http://blog.private.net/" target="_blank">柒柒的小破站</a>
 
+![image-20230416102246791](assets/image-20230416102246791.png)
+
 ---
 
-# <a href="http://file.private.net/" target="_blank">媒体服务器</a>
+# <a href="http://file.private.net/" target="_blank">文件服务器</a>
 
 ```
  有两个公共账户:
@@ -24,20 +31,53 @@
     123
 
  2. 可读写,主要用作网络临时交换存储空间
- 这个账户对应的存储空间也有简易的直接浏览和下载的web网页服务, IIS提供的目录浏览, 链接点击下面的目录浏览
- http://115b.net:8008/
+ 这个账户对应的存储空间也有简易的直接浏览和下载的web网页服务, IIS提供的目录浏览, 图示在下一部分目录浏览
+ http://src.private.net/
 用户名：
     a
 密码：
     a
 ```
-[目录浏览](http://src.private.net/)
+![image-20230416102601660](assets/image-20230416102601660.png)
 
-![image-20230315142000757](./assets/image-20230315142000757.png)
+![image-20230416102535263](assets/image-20230416102535263.png)
+
+# [目录浏览(对应文件服务器的公共账户a的空间)](http://src.private.net/)
+
+![image-20230416102410416](assets/image-20230416102410416.png)
 
 ---
 
-# <a href="http://console.oss.private.net/" target="_blank">OSS 对象存储服务</a>
+# <a href="http://console.oss.private.net/" target="_blank">OSS 对象存储服务 （Web控制台）</a>
+
+> 但是这个东东没有公用账户,
+>
+> 如果想用一下的话, 可以联系比如说[mail一下](mailto:sayurinana@163.com)说要做什么然后给开个账户
+
+![image-20230416102911866](assets/image-20230416102911866.png)
+
+![image-20230416103103183](assets/image-20230416103103183.png)
+
+# [Web 邮箱客户端 :: 欢迎使用 Roundcube Webmail (仅用于登录@private.net邮箱)](http://mail.private.net/)
+
+> 有九个临时邮箱，若需要建立一个可以[mail一下](mailto:sayurinana@163.com)给开一个，
+>
+> 邮箱附件最大20MB，若要分享大文件建议通过文件服务器，
+>
+> 按   名称|地址|密码|空间|单位 格式列出：
+> temp-user-1 | temp-user-1@private.net | ABCabc123 | 10 | MB
+> temp-user-2 | temp-user-2@private.net | ABCabc123 | 10 | MB
+> temp-user-3 | temp-user-3@private.net | ABCabc123 | 10 | MB
+> temp-user-4 | temp-user-4@private.net | ABCabc123 | 10 | MB
+> temp-user-5 | temp-user-5@private.net | ABCabc123 | 10 | MB
+> temp-user-6 | temp-user-6@private.net | ABCabc123 | 10 | MB
+> temp-user-7 | temp-user-7@private.net | ABCabc123 | 10 | MB
+> temp-user-8 | temp-user-8@private.net | ABCabc123 | 10 | MB
+> temp-user-9 | temp-user-9@private.net | ABCabc123 | 10 | MB
+
+![image-20230416103208709](assets/image-20230416103208709.png)
+
+![image-20230416104049056](assets/image-20230416104049056.png)
 
 ---
 
