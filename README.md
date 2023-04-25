@@ -8,11 +8,17 @@
 
 # 1. 以下是Web引导
 
+---
+
 # <a href="http://yapi.private.net/" target="_blank">YApi-高效、易用、功能强大的可视化接口管理平台 (private.net)</a>
 
 ![image-20230416102049955](assets/image-20230416102049955.png)
 
 ---
+
+# <a href="http://thingsboard.private.net/login" target="_blank">IoT平台 ThingsBoard | 登录 (private.net)</a>
+
+![image-20230425233001264](assets/image-20230425233001264.png)
 
 # <a href="http://blog.private.net/" target="_blank">柒柒的小破站</a>
 
