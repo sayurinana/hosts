@@ -136,25 +136,24 @@
 
 ```
 #对旧URL兼容
-139.9.44.8                                 115b.net
-139.9.44.8                           wuuuu.115b.net
-139.9.44.8                      blog.wuuuu.115b.net
-139.9.44.8                    minio.server.115b.net
+172.20.32.26                                 115b.net
+172.20.32.26                           wuuuu.115b.net
+172.20.32.26                      blog.wuuuu.115b.net
+172.20.32.26                    minio.server.115b.net
 
 
-139.9.44.8                              private.net
+172.20.32.26                              private.net
 192.168.137.1                       wuuuu.private.net
 192.168.137.210       vm-centos7-server-1.private.net
-139.9.44.8                          src.private.net
-139.9.44.8                         mail.private.net
-139.9.44.8                          oss.private.net
-139.9.44.8                         yapi.private.net
-139.9.44.8                         blog.private.net
-139.9.44.8                  thingsboard.private.net
-139.9.44.8                   sayurinana.private.net
-139.9.44.8                bt.sayurinana.private.net
-139.9.44.8              blog.sayurinana.private.net
-139.9.44.8              code.sayurinana.private.net
- ```
+172.20.32.26                          src.private.net
+172.20.32.26                         mail.private.net
+172.20.32.26                          oss.private.net
+172.20.32.26                         yapi.private.net
+172.20.32.26                         blog.private.net
+172.20.32.26                   sayurinana.private.net
+172.20.32.26                bt.sayurinana.private.net
+172.20.32.26              blog.sayurinana.private.net
+172.20.32.26              code.sayurinana.private.net
+```
 
 ---
