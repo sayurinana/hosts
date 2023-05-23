@@ -9,6 +9,7 @@
 192.168.137.1                       wuuuu.private.net
 192.168.137.210       vm-centos7-server-1.private.net
 172.20.32.26                          src.private.net
+172.20.32.26                         file.private.net
 172.20.32.26                         mail.private.net
 172.20.32.26                          oss.private.net
 172.20.32.26                         yapi.private.net
